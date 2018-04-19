@@ -21,13 +21,13 @@ function print_vars($obj) {
 }
 
 // instantiate one object
-$herbie = new Car("red");
+$herbie = new Car("white");
 
 // show herbie properties
 echo "\herbie: Properties\n";
 print_vars($herbie);
 
-?>  
+?>
 
 </body>
 </html>
