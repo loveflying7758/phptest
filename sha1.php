@@ -1,4 +1,4 @@
 <?php
-$add = "Sichuan";
+$add = "Sichuan Jiangyou";
 echo sha1( $add );
 ?>
